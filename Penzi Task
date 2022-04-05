@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T09:49:04.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="V7TAmq3GYN29PvhDczVb" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T11:13:19.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="93_0pOLXUbP_kr1rWNe1" version="17.4.0" type="github">
   <diagram id="YXdpIvtYbskxiY1WXmx7" name="Page-1">
-    <mxGraphModel dx="1268" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1268" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,8 +41,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-7" target="eUFFrstD71EObbP3l9hF-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-7" value="You were registered for dating with your initial details.&lt;br/&gt;To search for a MPENZI, SMS match#age#town to 22141 and meet the person of &lt;br/&gt;your dreams.&lt;br/&gt;E.g., match#23-25#Nairobi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="900" width="120" height="170" as="geometry" />
+          <mxGeometry x="450" y="900" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-15" target="eUFFrstD71EObbP3l9hF-21">
           <mxGeometry relative="1" as="geometry" />
@@ -67,8 +70,67 @@
         <mxCell id="eUFFrstD71EObbP3l9hF-21" value="&#xa;&#xa;Your profile has been created successfully Jamal.&#xa;SMS details#level of education#profession#marital status#religion#ethnicity to &#xa;22141.&#xa;E.g. details#diploma#driver#single#christian#mijikenda&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="560" width="280" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-27" target="eUFFrstD71EObbP3l9hF-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-27" value="You are now registered for dating.&lt;br/&gt;To search for a MPENZI, SMS match#age#town to 22141 and meet the person of &lt;br/&gt;your dreams.&lt;br/&gt;E.g., match#23-25#Kisumu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="1100" width="120" height="150" as="geometry" />
+          <mxGeometry x="-240" y="1160" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-29" target="eUFFrstD71EObbP3l9hF-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-29" value="We have 30 ladies who match your choice! We will send you details of 3 of them &lt;br/&gt;shortly.&lt;br/&gt;To get more details about a lady, SMS her number e.g., 0722010203 to 22141&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1160" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-32" target="eUFFrstD71EObbP3l9hF-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-37" value="NEXT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eUFFrstD71EObbP3l9hF-36">
+          <mxGeometry x="-0.1667" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-32" target="eUFFrstD71EObbP3l9hF-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-32" value="Lina Moraa aged 29, 0722010203.&lt;br/&gt;Dorine Gakii aged 26, 0701223344.&lt;br/&gt;Aisha Bahati, aged 27 0700112233.&lt;br/&gt;Send NEXT to 22141 to receive details of the remaining 27 ladies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1430" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-35" target="eUFFrstD71EObbP3l9hF-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-35" value="Pamela Nafula aged 26, 0722040506.&lt;br/&gt;Maria Mwende aged 28, 0702556677.&lt;br/&gt;Keziah Cheptab, aged 28 0708990011.&lt;br/&gt;Send NEXT to 22141 to receive details of the remaining 24 ladies&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1760" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-38" target="eUFFrstD71EObbP3l9hF-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-38" value="Maria Mwende aged 28, Nairobi County, Kasarani town, Graduate, Nurse, single, &lt;br/&gt;Christian, Kamba. Send DESCRIBE 0702556677 to get more details about Maria." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="2000" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-40" target="eUFFrstD71EObbP3l9hF-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-40" value="MORE DETAILS" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1780" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-48" target="eUFFrstD71EObbP3l9hF-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-48" target="eUFFrstD71EObbP3l9hF-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-48" value="Hi Maria, a man called Jamal is interested in you and requested your details.&lt;br/&gt;He is aged 29 based in Mombasa.&lt;br/&gt;Do you want to know more about him? Send YES to 22141" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2000" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-51" target="eUFFrstD71EObbP3l9hF-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-51" value="Maria describes herself as Diligent, loving, dedicated and will make you tick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-52" value="Jamal Jalang’o aged 29, Mombasa County, Bamburi town, Graduate, Accountant, &lt;br/&gt;divorced, Muslim, Somali.&lt;br/&gt;Send DESCRIBE 0702556677 to get more details about Jamal." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="2080" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
