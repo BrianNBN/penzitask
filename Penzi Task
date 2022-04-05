@@ -1,11 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T08:57:21.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="30O9VqTUTQyD2BLro7MS" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T09:49:04.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="V7TAmq3GYN29PvhDczVb" version="17.4.0" type="github">
   <diagram id="YXdpIvtYbskxiY1WXmx7" name="Page-1">
-    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1268" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eUFFrstD71EObbP3l9hF-1" value="SMS 22141" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="450" width="120" height="50" as="geometry" />
+        <mxCell id="eUFFrstD71EObbP3l9hF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-1" value="SMS PENZI TO 22141" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-2" target="eUFFrstD71EObbP3l9hF-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="815" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-26" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eUFFrstD71EObbP3l9hF-25">
+          <mxGeometry x="-0.0237" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-2" value="Has the User Provided Registration Details?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="740" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-2" target="eUFFrstD71EObbP3l9hF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="620" as="sourcePoint" />
+            <mxPoint x="520" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-6" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eUFFrstD71EObbP3l9hF-5">
+          <mxGeometry x="-0.0847" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-7" value="You were registered for dating with your initial details.&lt;br/&gt;To search for a MPENZI, SMS match#age#town to 22141 and meet the person of &lt;br/&gt;your dreams.&lt;br/&gt;E.g., match#23-25#Nairobi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="900" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-15" target="eUFFrstD71EObbP3l9hF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-15" value="Welcome to our dating service with 6000 potential dating partners!&lt;br/&gt;To register SMS start#name#age#gender#county#town to 22141.&lt;br/&gt;E.g., start#John Doe#26#Male#Nakuru#Naivasha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="390" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-19" target="eUFFrstD71EObbP3l9hF-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-19" value="This is the last stage of registration.&lt;br/&gt;SMS a brief description of yourself to 22141 starting with the word MYSELF.&lt;br/&gt;E.g., MYSELF chocolate, lovely, sexy etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="900" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-21" target="eUFFrstD71EObbP3l9hF-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="690" />
+              <mxPoint x="165" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-21" value="&#xa;&#xa;Your profile has been created successfully Jamal.&#xa;SMS details#level of education#profession#marital status#religion#ethnicity to &#xa;22141.&#xa;E.g. details#diploma#driver#single#christian#mijikenda&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="560" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFFrstD71EObbP3l9hF-27" value="You are now registered for dating.&lt;br/&gt;To search for a MPENZI, SMS match#age#town to 22141 and meet the person of &lt;br/&gt;your dreams.&lt;br/&gt;E.g., match#23-25#Kisumu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1100" width="120" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
