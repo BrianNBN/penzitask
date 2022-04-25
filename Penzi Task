@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T11:17:16.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="oK96YGXc2a5F1JZiAtfK" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T11:27:53.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="neYUCkfecbbCOVXxdAup" version="17.4.6" type="github">
   <diagram id="YXdpIvtYbskxiY1WXmx7" name="Page-1">
     <mxGraphModel dx="1268" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -123,6 +123,14 @@
         <mxCell id="eUFFrstD71EObbP3l9hF-51" value="Maria describes herself as Diligent, loving, dedicated and will make you tick" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-65" y="2350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="691Y9Anf4creGLCJBU3--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.392;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-52" target="691Y9Anf4creGLCJBU3--27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="2490" />
+              <mxPoint x="152" y="2490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-52" value="Jamal Jalang’o aged 29, Mombasa County, Bamburi town, Graduate, Accountant, &lt;br/&gt;divorced, Muslim, Somali.&lt;br/&gt;Send DESCRIBE 0702556677 to get more details about Jamal." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="2320" width="120" height="160" as="geometry" />
         </mxCell>
@@ -130,13 +138,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-66" value="Hi Jamal, last time you wanted a Date of age 26-30 based in Nairobi. We have 4 &lt;br/&gt;new members matching your choice.&lt;br/&gt;Are you interested? Send YES to 22141" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="105" y="2580" width="120" height="150" as="geometry" />
+          <mxGeometry x="105" y="2640" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="c4O9sLSpOl_SPKAoNLUM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eUFFrstD71EObbP3l9hF-69" target="eUFFrstD71EObbP3l9hF-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eUFFrstD71EObbP3l9hF-69" value="After a week’s &lt;br/&gt;inactivity" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="105" y="2470" width="120" height="80" as="geometry" />
+        <mxCell id="c4O9sLSpOl_SPKAoNLUM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="eUFFrstD71EObbP3l9hF-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="2550" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-72" value="Zeddy Wanjiku aged 30, 0711445566.&lt;br/&gt;Eunice Jemutai aged 29, 0700778899.&lt;br/&gt;Audrey Mamito, aged 27 0701020304.&lt;br/&gt;Send NEXT to 22141 to receive details of the remaining 1 lady" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="2770" width="120" height="160" as="geometry" />
@@ -263,6 +270,9 @@
         </mxCell>
         <mxCell id="691Y9Anf4creGLCJBU3--22" value="Inform Requested&lt;br&gt;Person" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="691Y9Anf4creGLCJBU3--27" value="After a week&#39;s inactivity" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
