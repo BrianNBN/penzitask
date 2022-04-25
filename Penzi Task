@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T08:57:09.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HB4g0zSfzDMw7whjEwB2" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T10:17:32.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hh0XQIX9tqra5adpUhv0" version="17.4.6" type="github">
   <diagram id="YXdpIvtYbskxiY1WXmx7" name="Page-1">
     <mxGraphModel dx="1268" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-48" value="Hi Maria, a man called Jamal is interested in you and requested your details.&lt;br/&gt;He is aged 29 based in Mombasa.&lt;br/&gt;Do you want to know more about him? Send YES to 22141" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="120" y="2020" width="140" height="140" as="geometry" />
+          <mxGeometry x="120" y="2010" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eUFFrstD71EObbP3l9hF-51" target="eUFFrstD71EObbP3l9hF-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,37 +121,51 @@
           <mxGeometry x="-50" y="2340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-52" value="Jamal Jalang’o aged 29, Mombasa County, Bamburi town, Graduate, Accountant, &lt;br/&gt;divorced, Muslim, Somali.&lt;br/&gt;Send DESCRIBE 0702556677 to get more details about Jamal." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2310" width="120" height="160" as="geometry" />
+          <mxGeometry x="250" y="2300" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUFFrstD71EObbP3l9hF-66" target="c4O9sLSpOl_SPKAoNLUM-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-66" value="Hi Jamal, last time you wanted a Date of age 26-30 based in Nairobi. We have 4 &lt;br/&gt;new members matching your choice.&lt;br/&gt;Are you interested? Send YES to 22141" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="2560" width="120" height="150" as="geometry" />
+          <mxGeometry x="105" y="2580" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUFFrstD71EObbP3l9hF-67" target="eUFFrstD71EObbP3l9hF-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-67" value="&#xa;&#xa;Inform requested &#xa;person&#xa;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1910" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" y="1870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eUFFrstD71EObbP3l9hF-69" target="eUFFrstD71EObbP3l9hF-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-69" value="After a week’s &lt;br/&gt;inactivity" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="2450" width="120" height="80" as="geometry" />
+          <mxGeometry x="105" y="2470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-72" value="Zeddy Wanjiku aged 30, 0711445566.&lt;br/&gt;Eunice Jemutai aged 29, 0700778899.&lt;br/&gt;Audrey Mamito, aged 27 0701020304.&lt;br/&gt;Send NEXT to 22141 to receive details of the remaining 1 lady" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="2680" width="120" height="160" as="geometry" />
+          <mxGeometry x="350" y="2770" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eUFFrstD71EObbP3l9hF-79" target="c4O9sLSpOl_SPKAoNLUM-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-79" value="Hi Jamal, you are due for de-activation from our dating service on Thursday 5th&lt;br/&gt;May. To reactivate send ACTIVATE to 22141" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="2905" width="110" height="140" as="geometry" />
+          <mxGeometry x="-155" y="2990" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="691Y9Anf4creGLCJBU3--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.033;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUFFrstD71EObbP3l9hF-80" target="eUFFrstD71EObbP3l9hF-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="3065" />
+              <mxPoint x="580" y="1197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="691Y9Anf4creGLCJBU3--20" value="&lt;span style=&quot;font-size: 12px&quot;&gt;match#23-25&lt;br&gt;#Kisumu&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="691Y9Anf4creGLCJBU3--18">
+          <mxGeometry x="0.0162" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eUFFrstD71EObbP3l9hF-80" value="You have been reactivated for dating.&lt;br/&gt;To search for a MPENZI, SMS match#age#town to 22141 and meet the person of &lt;br/&gt;your dreams.&lt;br/&gt;E.g., match#23-25#Kisumu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="2890" width="120" height="190" as="geometry" />
+          <mxGeometry x="390" y="2970" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c4O9sLSpOl_SPKAoNLUM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -191,7 +205,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-13" value="YES/&lt;br&gt;NO ACTIVITY" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="2750" width="80" height="80" as="geometry" />
+          <mxGeometry x="125" y="2840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c4O9sLSpOl_SPKAoNLUM-18" target="eUFFrstD71EObbP3l9hF-79" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -204,7 +218,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-18" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;After a month’s&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;inactivity&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-165" y="2760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-165" y="2850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c4O9sLSpOl_SPKAoNLUM-24" target="eUFFrstD71EObbP3l9hF-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -213,16 +227,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-24" value="Did the sender Reactvate" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="2935" width="80" height="80" as="geometry" />
+          <mxGeometry x="215" y="3020" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-29" value="DEACTIVATE" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="3150" width="120" height="60" as="geometry" />
+          <mxGeometry x="195" y="3180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-36" value="Reactivate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="165" y="2950" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c4O9sLSpOl_SPKAoNLUM-37" value="Sender&lt;br&gt;Did Reactivate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="3060" width="90" height="30" as="geometry" />
+          <mxGeometry x="160" y="3110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="691Y9Anf4creGLCJBU3--2" value="start#John Doe#26#Male&lt;br&gt;#Nakuru#Naivasha" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="495" width="150" height="30" as="geometry" />
